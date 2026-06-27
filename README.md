@@ -1,1 +1,3 @@
 # Configs
+
+:q! the mouse
